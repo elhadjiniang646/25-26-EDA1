@@ -1,5 +1,10 @@
 # Ejercicios diversos, para ir practicando
 
-|Ejercicio|Concepto|Concepto|Concepto|Concepto|Concepto|Concepto|Concepto
+<div align=center>
+
+|Ejercicio|Listas|Pilas|Colas|Árboles|Grafos|Archivos||
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[Nombre del ejercicio](01-PaginaDelEjercicio.md)|☑️|☑️|☑️|🔲|🔲|🔲|😊
+|[pyClinico](pyClinico.md)|☑️|☑️|☑️|☑️|🔲|🔲|
+|[pySpotify](pySpotify.md)|☑️|☑️|☑️|☑️|🔲|🔲|
+
+</div>
